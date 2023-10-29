@@ -2,10 +2,10 @@
 
 
 
-### 👨‍💻 Jae Hyuk An
+## 👨‍💻 Jae Hyuk An
 ***
-### Intro
-#### 🐢 **Slow** and **Steady** wins the race
+## Intro
+### 🐢 **Slow** and **Steady** wins the race
 
 > Hello, my name is Jaehyuk An. <br/>
 > I'm always trying to become a **Embedded SW developer** having a professionality. <br/>
@@ -13,17 +13,17 @@
 
 
 
-### Tech Stack
+## Tech Stack
 
-##### 💻  Main used
+#### 💻  Main used
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white) ![Static Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black) ![Static Badge](https://img.shields.io/badge/cmake-064F8C?style=for-the-badge&logo=CMAKE&logoColor=white)
 <br/> 
 ![Static Badge](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Static Badge](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Static Badge](https://img.shields.io/badge/arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
-##### 💻 Used at least once
+#### 💻 Used at least once
  ![Static Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Static Badge](https://img.shields.io/badge/Verilog-EA5906?style=for-the-badge&logo=V&logoColor=black)  <br/>
 ![Static Badge](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Static Badge](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Static Badge](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
  
-##### 💻  Network
+#### 💻  Network
  ![Static Badge](https://img.shields.io/badge/wifi-4479A1?style=for-the-badge&logo=wifi&logoColor=white) ![Static Badge](https://img.shields.io/badge/bluetooth-4479A1?style=for-the-badge&logo=bluetooth&logoColor=white) ![Static Badge](https://img.shields.io/badge/Ethernet-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/spi-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/i2c-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/ethercat-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/uart-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/usart-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/TCP/IP-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) ![Static Badge](https://img.shields.io/badge/UDP-4479A1?style=for-the-badge&logo=ethernet&logoColor=white) 
 
 <br/>
